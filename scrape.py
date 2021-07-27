@@ -4,7 +4,7 @@ import requests
 import re
 import random
 import math
-
+import webbrowser
 
 
 total = input("How many Layers Deep?: ")
