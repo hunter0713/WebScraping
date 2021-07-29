@@ -1,11 +1,10 @@
 # import required modules
 from bs4 import BeautifulSoup
 import requests
-import re
 import random
 import math
 import webbrowser
-
+import re
 
 total = input("How many Layers Deep?: ")
 print("Spider Webs")
