@@ -51,4 +51,4 @@ for x in range(0,int(total)):
                 chosen = chosen + links[0][x]
             else:
                 chosen = chosen + " "
-        print(chosen[6:])
+        print("Article: " + chosen[6:])
